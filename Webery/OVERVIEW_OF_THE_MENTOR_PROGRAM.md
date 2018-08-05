@@ -18,10 +18,10 @@ Bi-weekly or monthly reports from mentors about:
 
 - Mentee survey results since the last report
 	- Identify weaknesses and strengths
-	- Present plans about how to tackle these
+	- Present plans about how to tackle them
 - What mistakes the mentee made, and how he fixed them
 - Praise mentees on their successes
-- The mentors assessment of the program, their progress,  surfaced problems about the process and suggestions to fixing them
+- Mentors' assessment of the program, their progress,  surfaced problems about the process and suggestions to fixing them
 
 
 ## For Mentors
@@ -40,12 +40,12 @@ Bi-weekly or monthly reports from mentors about:
 - Be always available for questions. Be always ready to help.
 	- Be strict about [When and how to ask](GUIDE_FOR_MENTEES.md#when-and-how-to-ask)
 - Code reviews
-	- Don't fix their code! Tell them to fix it, tell them how to fix it!
+	- Don't fix their code! Ask them to fix it, tell them how to fix it!
 	- Review on the spot on Thursday afternoon about: Wednesday, Thursday
 	- Prepared review on Tuesday afternoon about: Friday, Monday, Tuesday
 - Weekly meetings on Friday with a survey
 	- Agree on a time, near the end of the day if possible
-	- Always be available, never be late, never reschedule if possible!
+	- Always be available, never be late, don't reschedule unless necessary!
 	- Take as little time or as long as the mentee requires
 	- Prepare questions and feedback (constructive, positive)
 		- Compare the answers every week. Measure!
@@ -63,5 +63,5 @@ Bi-weekly or monthly reports from mentors about:
 
 ### Communication
 
-- Strictly follow [When and how to ask](GUIDE_FOR_MENTEES.md#when-and-how-to-ask)
+- Strictly follow ["When and how to ask"](GUIDE_FOR_MENTEES.md#when-and-how-to-ask)
 - Predefined schedule for receiving and giving feedback
