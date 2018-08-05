@@ -38,7 +38,7 @@ Bi-weekly or monthly reports from mentors about:
 ### Communication
 
 - Be always available for questions. Be always ready to help.
-	- Be strict about  `When and how to ask`
+	- Be strict about [When and how to ask](GUIDE_FOR_MENTEES.md#when-and-how-to-ask)
 - Code reviews
 	- Don't fix their code! Tell them to fix it, tell them how to fix it!
 	- Review on the spot on Thursday afternoon about: Wednesday, Thursday
@@ -63,5 +63,5 @@ Bi-weekly or monthly reports from mentors about:
 
 ### Communication
 
-- Strictly follow  `When and how to ask`
+- Strictly follow [When and how to ask](GUIDE_FOR_MENTEES.md#when-and-how-to-ask)
 - Predefined schedule for receiving and giving feedback

@@ -6,10 +6,10 @@
 - Active listening
 	- I respect you by answering, respect me by listening
 - Preparing questions
-	- Short, to the point, prepared (see `When and how to ask`)
+	- Short, to the point, prepared (see [When and how to ask](#when-and-how-to-ask))
 - Decide when it's enough to just use Slack (out of courtesy). If it's a simple question with a simple answer, we don't break each other's flow. If it's a question that needs a lengthy answer, we'll talk.
 	- Bonus win: don't disturb others in the room unnecessarily
-- Google the exact error message or behaviour you see. (see `When and how to ask`) This one thing will answer 50% of your questions. Really.
+- Google the exact error message or behaviour you see. (see [When and how to ask](#when-and-how-to-ask)) This one thing will answer 50% of your questions. Really.
 - Make notes anytime and anywhere if necessary
 	- On meetings, **always** make notes
 - Use the keyboard more, the trackpad less, learn to be effective with
