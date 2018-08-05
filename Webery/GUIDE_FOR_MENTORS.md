@@ -3,22 +3,22 @@
 
 ## Guideline
 
-	- Make mentoring a priority, only emergencies are more important
-		- If they don't feel important, they stop asking questions
-		- If they feel like they are taking away from your time to do more important things, they won't ask for your time
-	- **Hammer in best practices early on. Take extra time if it's necessary!**
-	- Have a roadmap, milestones
-		- Technologies
-		- Tooling
-		- Methods
-		- Try setting SMART goals
-			- Specific, Measurable, Attainable, Relevant, Time-bound
-	- Collect information, track their progress, document everything
-		- Code reviews
-		- Meetings
-		- Surveys
-		- Day to day operations
-	- **Only help them if they want help!**
+- Make mentoring a priority, only emergencies are more important
+	- If they don't feel important, they stop asking questions
+	- If they feel like they are taking away from your time to do more important things, they won't ask for your time
+- **Hammer in best practices early on. Take extra time if it's necessary!**
+- Have a roadmap, milestones
+	- Technologies
+	- Tooling
+	- Methods
+	- Try setting SMART goals
+		- Specific, Measurable, Attainable, Relevant, Time-bound
+- Collect information, track their progress, document everything
+	- Code reviews
+	- Meetings
+	- Surveys
+	- Day to day operations
+- **Only help them if they want help!**
 
 ## Measuring
 
